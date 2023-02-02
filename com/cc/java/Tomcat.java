@@ -10,6 +10,7 @@ public Tomcat(String name, String furColor, int age) {
 
 public String getAge() {
   return String.valueOf(age);
+  //return String.valueOf(super.age);
 }
   
     
